@@ -10,7 +10,7 @@ All instructions can be found in [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/jgillman/dracula-antinote/graphs/contributors).
+This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/antinote/graphs/contributors).
 
 | [![Joel Gillman](https://github.com/jgillman.png?size=100)](https://github.com/jgillman) |
 | ---------------------------------------------------------------------------------------- |

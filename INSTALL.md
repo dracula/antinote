@@ -5,12 +5,12 @@
 If you are a Git user, you can install the theme and keep it up to date by cloning the repo:
 
 ```bash
-git clone https://github.com/jgillman/dracula-antinote.git
+git clone https://github.com/dracula/antinote.git
 ```
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/jgillman/dracula-antinote/archive/main.zip) option and unzip it.
+Download using the [GitHub `.zip` download](https://github.com/dracula/antinote/archive/main.zip) option and unzip it.
 
 #### Activating theme
 
